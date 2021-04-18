@@ -1,0 +1,20 @@
+.login{
+	text-decoration:none;
+	color:white;
+}
+.login:hover{
+	color: chartreuse;
+	text-decoration:none;
+}
+.home{
+	text-decoration:none;
+	color:chartreuse;
+}
+.home:hover{
+	color: red;
+	text-decoration: none;
+}
+
+.foot span{
+	color: cyan;
+}
